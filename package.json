@@ -1,0 +1,26 @@
+{
+  "name": "mhgen-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vacero/MHGen-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vacero/MHGen-API/issues"
+  },
+  "homepage": "https://github.com/vacero/MHGen-API#readme",
+  "dependencies": {
+    "apicache": "^0.7.1",
+    "bluebird": "^3.4.6",
+    "body-parser": "~1.0.1",
+    "dblite": "^0.7.7",
+    "express": "~4.0.0"
+  }
+}
